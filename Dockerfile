@@ -1,4 +1,3 @@
-# Dockerfile for Flask API
 FROM python:stretch
 
 COPY . /app
